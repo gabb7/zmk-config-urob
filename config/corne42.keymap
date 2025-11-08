@@ -12,4 +12,3 @@
 #include "base.keymap"
 
 /{ chosen { zmk,physical-layout = &foostan_corne_6col_layout; }; };
-    
